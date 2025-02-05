@@ -10,7 +10,6 @@ Esta es una aplicación dart destinada al consumo de la api fake store  y a la d
 .
 
 ## Estructura del Proyecto
-La aplicación sigue una arquitectura limpia, utilizando  `Riverpod` para manejar el estado y la lógica de negocio. El proyecto está dividido en las siguientes capas mediante segregación de carpetas:
 - **models**: Contiene  sus respectivos modelos.
 - **Api**: Contiene nuestras clases que implementan la api (fakeStore), con su respectiva carpeta de errors.
 
